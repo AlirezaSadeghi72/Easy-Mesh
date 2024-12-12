@@ -23,6 +23,12 @@ Part2:
 
 
         
+## آیدی تلگرام
+اگه سوالی داشتید میتونید از طریق تلگرام با من در تماس باشید
+[ShadowSockss_Support](https://t.me/ShadowSockss_Support) 
+
+[ShadowSockssbot](https://t.me/ShadowSockssbot) 
+
 # سورس کد
 
 https://github.com/EasyTier/EasyTier
