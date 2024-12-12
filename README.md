@@ -17,5 +17,13 @@ v2
 bash <(curl -Ls --ipv4 https://github.com/AlirezaSadeghi72/easy-mesh/raw/main/easymesh_v2.sh)
 ```
 
+## My Telegram ID
+
+If you have any questions, feel free to ask me.
+
+[ShadowSockss_Support](https://t.me/ShadowSockss_Support) 
+
+[ShadowSockssbot](https://t.me/ShadowSockssbot) 
+
 ## Source code
 https://github.com/EasyTier/EasyTier
