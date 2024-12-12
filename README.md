@@ -16,17 +16,6 @@ v2
 ```
 bash <(curl -Ls --ipv4 https://github.com/AlirezaSadeghi72/easy-mesh/raw/main/easymesh_v2.sh)
 ```
-## My Telegram channel
-Check the channel below for more information:
-https://t.me/Gozar_Xray
-
- ## Support the project
-
-Donate TRX (TRC-20) to support our project:
-``` wallet
-TMVBGzX4qpt12R1qWsJMpT1ttoKH1kus1H
-```
-Thanks for your support! 
 
 ## Source code
 https://github.com/EasyTier/EasyTier
