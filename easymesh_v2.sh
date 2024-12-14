@@ -722,16 +722,16 @@ remove_easymesh_core(){
 display_menu() {
     clear
 # Print the header with colors
-echo -e "   ${CYAN}╔════════════════════════════════════════╗"
-echo -e "   ║            🌐 ${WHITE}EasyMesh                 ${CYAN}║"
-echo -e "   ║        ${WHITE}VPN Network Solution            ${CYAN}║"
-echo -e "   ╠════════════════════════════════════════╣"
-echo -e "   ║  ${WHITE}Core Version: 2.03                    ${CYAN}║"
-echo -e "   ║  ${WHITE}Telegram Channel: @Gozar_Xray         ${CYAN}║"
+echo -e "   ${CYAN}╔═════════════════════════════════════════════════╗"
+echo -e "   ║            🌐 ${WHITE}EasyMesh                          ${CYAN}║"
+echo -e "   ║        ${WHITE}VPN Network Solution                     ${CYAN}║"
+echo -e "   ╠═════════════════════════════════════════════════╣"
+echo -e "   ║  ${WHITE}Core Version: 2.03                             ${CYAN}║"
+echo -e "   ║  ${WHITE}Telegram Channel: @Gozar_Xray                  ${CYAN}║"
 echo -e "   ║  ${WHITE}GitHub: github.com/AlirezaSadeghi72/easy-mesh  ${CYAN}║"
-echo -e "   ╠════════════════════════════════════════╣${RESET}"
-echo -e "   ║        $(check_core_status)         ║"
-echo -e "   ╚════════════════════════════════════════╝"
+echo -e "   ╠═════════════════════════════════════════════════╣${RESET}"
+echo -e "   ║        $(check_core_status)                  ║"
+echo -e "   ╚═════════════════════════════════════════════════╝"
 
     echo ''
     colorize green "	[1] Connect to the Mesh Network" bold 
